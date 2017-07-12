@@ -1,0 +1,25 @@
+{
+  "name": "miora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":[
+    "tool",
+    "edu",
+    "bot"
+  ],
+  "preferGlobal" : true,
+  "bin": {
+    "miora": "index.js"
+  },
+  "author": "Narendra",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "prompt": "^1.0.0"
+  }
+}
